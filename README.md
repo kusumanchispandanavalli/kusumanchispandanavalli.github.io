@@ -6,7 +6,7 @@
 
 **College Name:** Sri Vasavi Engineering College
 
-##Skills:
+## Skills:
 
 - C Programming
 - Version Control System (Git & GitHub)

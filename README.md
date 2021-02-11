@@ -1,4 +1,4 @@
-# kusum@nchi Sp@nd@n@ V@lli
+# Kusum@nchi Sp@nd@n@ V@lli
 
 ## Educational Details :
 
